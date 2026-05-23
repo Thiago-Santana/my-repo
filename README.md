@@ -1,6 +1,7 @@
 
 # my-repo - This is my first conflict tryout
 
+## This is an additional feature on my second branch
 
 # Hello, there! this is my first markdown document
 
